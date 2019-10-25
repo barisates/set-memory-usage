@@ -18,6 +18,6 @@ Automatically scale our Pods to maintain performance and minimize cost. Use metr
 ------------
 #### Author
 
-**Barış Ateş**
+**BarÄ±ÅŸ AteÅŸ**
  - http://barisates.com
  - [github/barisates](https://github.com/barisates "github/barisates")
