@@ -34,9 +34,6 @@ namespace set_memory_usage.Services
         {
             var reset = Reset();
 
-            if (size > 1100)
-                size = 1100;
-
             byte[] memoryFile = System.IO.File.ReadAllBytes("memory");
 
             for (int i = 0; i < size; i++)
